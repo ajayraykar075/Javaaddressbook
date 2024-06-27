@@ -1,5 +1,4 @@
-This is new line
-12369
+
 Addressbook Tutorial
 ====================
 
