@@ -1,5 +1,5 @@
 This is new line
-new
+
 Addressbook Tutorial
 ====================
 
